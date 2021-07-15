@@ -210,6 +210,9 @@ thead {
     color: aliceblue;
 }
 
+
+/*style image*/
+
 .image {
     width: 300px;
 }
@@ -218,6 +221,9 @@ thead {
     margin-left: 20px;
     margin-top: 20px;
 }
+
+
+/*style liste*/
 
 .pr {
     margin-left: 200px;
