@@ -209,3 +209,21 @@ thead {
     font-weight: bold;
     color: aliceblue;
 }
+
+.image {
+    width: 300px;
+}
+
+.gallerie {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.pr {
+    margin-left: 200px;
+    margin-top: 25px;
+}
+
+.fram {
+    margin-left: 35px;
+}
